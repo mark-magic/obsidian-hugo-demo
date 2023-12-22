@@ -1,0 +1,8 @@
+tasks:
+  - name: docs
+    input:
+      name: '@mark-magic/plugin-obsidian'
+      config:
+        path: ./obsidian-vault
+    output:
+      name: '@mark-magic/plugin-hugo'

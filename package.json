@@ -1,0 +1,17 @@
+{
+  "name": "obsidian-hugo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gen": "mark-magic"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@mark-magic/cli": "^0.10.0",
+    "@mark-magic/plugin-obsidian": "^0.10.0",
+    "@mark-magic/plugin-hugo": "^0.10.0"
+  }
+}
