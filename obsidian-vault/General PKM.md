@@ -1,3 +1,8 @@
+---
+tags:
+  - blog
+---
+
 I want to...
 
 - Understand Personal Knowledge Management (PKM) better: [[Intro to Personal Knowledge Management]]

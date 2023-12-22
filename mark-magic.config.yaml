@@ -4,5 +4,8 @@ tasks:
       name: '@mark-magic/plugin-obsidian'
       config:
         path: ./obsidian-vault
+        tag: blog
     output:
       name: '@mark-magic/plugin-hugo'
+      config:
+        base: /obsidian-hugo-demo/

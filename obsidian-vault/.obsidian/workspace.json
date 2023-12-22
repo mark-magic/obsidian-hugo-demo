@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "035dbbcc44524f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General PKM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Start Here.md",
+                "file": "General PKM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start Here.md",
+                "file": "General PKM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start Here.md",
+                "file": "General PKM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,8 +188,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a8fd3021c4337cb1",
+  "active": "035dbbcc44524f59",
   "lastOpenFiles": [
+    "Start Here.md",
+    "Intro to Personal Knowledge Management.md",
     "Daily Questions in Obsidian.md",
     "Connecting Notes & Bidirectional Linking.md",
     "Changing Your Obsidian Theme.md",
@@ -187,7 +202,6 @@
     "Timeblocking in Obsidian.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Start Here.md",
     "Splitting Notes in Obsidian.md",
     "Syncing and Embedding Tasks with Todoist.md",
     "Task Management.md",

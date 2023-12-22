@@ -1,6 +1,9 @@
 ---
 Author: Mike Schmitz
-Tags: pkm, zettelkasten
+tags:
+  - pkm
+  - zettelkasten
+  - blog
 ---
 
 Personal Knowledge Management systems (or PKMs) are all the rage lately. Collecting and connecting information from bookmarks and blog posts in a sort of "personal wiki" using tools like Roam Research and Obsidian can help you see your ideas from different perspectives. This can have big benefits not just for lifelong learners, but for anyone who is looking to do their best creative work.

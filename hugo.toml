@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mark-magic.github.io/obsidian-hugo-demo/'
 languageCode = 'en-us'
 title = 'obsidian-hugo-demo'
 theme = 'ananke'

@@ -9,7 +9,6 @@ tags:
   - journaling
   - dailynotes
   - setup
-  - blog
 date: 2023-12-22T02:58:38.172Z
 ---
 
@@ -56,7 +55,7 @@ This screenshot doesn't really do the plugin justice as ever card is draggable b
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/kanban2.jpg)
 
-This is my favorite plugin, hands down. I can't recommend it enough. And if you want to read more about how I use it, check out [Mike's Obsidian-Based Writing Workflow](/posts/f239593eeb72e39707a5899f1b10a151d5e72aa0).
+This is my favorite plugin, hands down. I can't recommend it enough. And if you want to read more about how I use it, check out [Mike's Obsidian-Based Writing Workflow](:/content/f239593eeb72e39707a5899f1b10a151d5e72aa0).
 
 ### Calendar
 
@@ -104,7 +103,7 @@ What the [Note Refactor plugin](https://github.com/lynchjames/note-refactor-obsi
 
 There's lots of different formatting options you can use with this, but it's an essential tool for build a library of atomic notes.
 
-*Update: You can now do this using a Core plugin that you can read about in [Splitting Notes in Obsidian](/posts/8f41ba3f737cfa1f1c2f778e70e11ca4202010e1). But Note Refactor is still the power user tool of choice.*
+*Update: You can now do this using a Core plugin that you can read about in [Splitting Notes in Obsidian](:/content/8f41ba3f737cfa1f1c2f778e70e11ca4202010e1). But Note Refactor is still the power user tool of choice.*
 
 ### Better Word Count
 
@@ -112,7 +111,7 @@ Obsidian ships with a core plugin for word count, but the [Better Word Count plu
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/betterwordcount.jpg)
 
-It's pretty simple as far as plugins go, but it makes Obsidian an even better writing tool. If you want to know more, check out [Turning Obsidian into the Perfect Writing App](/posts/9a9e593da7dc695e0dde3dd6bd07f2f98a5faf21).
+It's pretty simple as far as plugins go, but it makes Obsidian an even better writing tool. If you want to know more, check out [Turning Obsidian into the Perfect Writing App](:/content/9a9e593da7dc695e0dde3dd6bd07f2f98a5faf21).
 
 ### Todoist
 
@@ -122,11 +121,11 @@ The [Todoist plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) al
 
 On the left is the actual code written in Edit Mode, and on the right is the interactive rendering of the Todoist tasks in Preview Mode. As you can see, the task names, projects, and even swim lanes are displayed in Obsidian. The colors come over from Todoist's priority levels, and each task is interactive so I can check the circle and mark it off as complete in Todoist.
 
-This is a great plugin for anyone who keeps tasks in Todoist but wants a way to visualize those tasks alongside project information inside of Obsidian. If you want to see it in action, check out [Syncing and Embedding Tasks with Todoist](/posts/3b5a48fc742a34a8a3c17747d70a1bc6d5e45a2a).
+This is a great plugin for anyone who keeps tasks in Todoist but wants a way to visualize those tasks alongside project information inside of Obsidian. If you want to see it in action, check out [Syncing and Embedding Tasks with Todoist](:/content/3b5a48fc742a34a8a3c17747d70a1bc6d5e45a2a).
 
 ### Tracker
 
-The [Tracker Plugin](https://github.com/pyrochlore/obsidian-tracker) is the heart and soul of my [Daily Questions in Obsidian](/posts/c7fe4162f885bd4619edcb3bad74888d2c37e585) journaling workflow. What it does is take values (in my case, numeric values associated with specific tags) and plots them on a graph. Here's a side-by-side screenshot of the code snippets in Edit Mode and what it looks like rendered in Preview Mode:
+The [Tracker Plugin](https://github.com/pyrochlore/obsidian-tracker) is the heart and soul of my [Daily Questions in Obsidian](/obsidian-hugo-demo/posts/c7fe4162f885bd4619edcb3bad74888d2c37e585) journaling workflow. What it does is take values (in my case, numeric values associated with specific tags) and plots them on a graph. Here's a side-by-side screenshot of the code snippets in Edit Mode and what it looks like rendered in Preview Mode:
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/tracker.jpg)
 
@@ -138,7 +137,7 @@ Another great plugin for visualizing data is the [Dataview plugin](https://githu
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/dataview.jpg)
 
-I walk through the whole process in setting this up in [YAML & Dataview](/posts/b319b8a24052c047d9566769cfdb6317d9c36e20).
+I walk through the whole process in setting this up in [YAML & Dataview](:/content/b319b8a24052c047d9566769cfdb6317d9c36e20).
 
 There's lots of other stuff you can do with this plugin. See [this thread in the Obsidian forum](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673) for more inspiration.
 
